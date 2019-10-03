@@ -1,0 +1,9 @@
+title: blug
+description: "Robert's blog"
+baseurl: /
+homepage: https://robertchen.cc/
+markdown:         redcarpet
+highlighter:      pygments
+permalink:        pretty
+paginate:         5
+github: https://github.com/chen-robert
