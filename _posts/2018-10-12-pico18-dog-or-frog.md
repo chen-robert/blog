@@ -1,7 +1,7 @@
 *Misc - 900*
 
 #### Description
-This is a classic machine learning problem. Thankfully, I've done a bit of machine learning already.
+This is a classic machine learning problem.
 
 We came across this [article](https://algotravelling.com/en/machine-learning-fun-part-8/) and copy much of the template code from there. I wrote my code in a Jupyter notebook. 
 
