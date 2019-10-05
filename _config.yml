@@ -1,9 +1,10 @@
-title: blug
-description: "Cybersecurity and competitive programming"
+title: roblog
+description: "cybersecurity and competitive programming"
 baseurl: /
 homepage: https://robertchen.cc/
 markdown:         redcarpet
 highlighter:      pygments
 permalink:        pretty
 paginate:         5
+excerpt_separator: <!--more-->
 github: https://github.com/chen-robert

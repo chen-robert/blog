@@ -5,6 +5,8 @@ This is a classic machine learning problem.
 
 We came across this [article](https://algotravelling.com/en/machine-learning-fun-part-8/) and copy much of the template code from there. I wrote my code in a Jupyter notebook. 
 
+<!--more-->
+
 The only problem that I encountered was that of the learning rate. The example's learning rate was way too small, and resulted in no progress. In order to solve, I set the learning rate to `1e7` and decayed it by `0.99` per iteration. Although these hyperparameters can probably be tuned better, these result in a solve in about 15 seconds with 100% accuracy.
 
 #### Sample training

@@ -6,6 +6,8 @@ There are two questions I attempted to answer.
 1. How to create an easy to use interface that minimizes the cognitive load on the user
 2. How to best create the seating chart given a list of preferences for each student
 
+<!--more-->
+
 #### Algorithmn
 
 The second question was significantly more interesting.

@@ -10,6 +10,8 @@ if (req && req.user && requestingUser && requestingUser !== 'undefined' && req.u
 }
 ```
 
+<!--more-->
+
 Note that if the user is not signed in, then `req.user` becomes undefined. Thus, the branch becomes false and I am able to set `requestingUser` to whatever they want.
 
 As a proof of concept, visit <https://secrethitler.io/profile?username=coz&requestingUser=coz> and note the inclusion of the `lastConnectedIP` attribute.

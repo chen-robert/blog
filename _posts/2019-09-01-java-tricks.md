@@ -6,6 +6,8 @@ Memory allocation is extremely cheap (~1e6 bytes per 1ms) compared to everything
 
 Be careful of the dimensional order of 2D arrays.
 
+<!--more-->
+
 ```java
 int[][] memory = new int[(int) 1e7][3]
 ```

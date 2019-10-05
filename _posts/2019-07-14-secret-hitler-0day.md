@@ -9,6 +9,7 @@ We control all of the parameters passed through `req.body`.
 ```javascript
 const { username, password, password2, tok } = req.body;
 ```
+<!--more-->
 
 The code that searches for a token is as follows.
 
