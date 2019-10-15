@@ -19,3 +19,7 @@ Q: What is the probability that our nukes get hacked within the next 50 years?
 Q: What do you think wars in the future will look like? 
 
 > The world is becoming increasingly reliant on IOT. This trend elevates cyberspace to one of utmost importance. In the future, wars won't be fought on land or in the sky, but in the digital realm. Targetted US strikes can disable Russian flight computers, making physical conflict pointless. This also has the advantage of minimizing physical damage. Activities in cyberspace tend to deal with informational services only, minimizing the human cost of wars. Entire conflicts can be resolved with 0 human deaths. We need to prepare for this paradigm shift in warfare. As soon as 2030, conflicts will be transition primarily to the cyber realm. The US government must be ready for this cyber apocalypse, increasing funding towards cybersecurity.
+
+Q: Approximately how many terror attacks have been stopped by US cyberattacks? 
+
+> It's hard to give an exact answer because of the secrecy surrounding US cyberattacks. If I had to give an estimate, I'd say the number is somewhere in the high hundreds.
