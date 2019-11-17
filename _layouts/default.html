@@ -4,9 +4,7 @@
   {% include head.html %}
 
   <body>
-    {% unless page.exclude %}
-      {% include sidebar.html %}
-    {% endunless %}
+    {% include sidebar.html %}
     <div class="content container">
       {{ content }}
     </div>
